@@ -249,3 +249,30 @@ Apache License 2.0
 ---
 
 <p align="center">© 2024 BaZi Pro. All rights reserved.</p>
+
+<p align="center">
+  <a href="https://github.com/Goldmann1995/AIbazi/stargazers">
+    <img src="https://img.shields.io/github/stars/Goldmann1995/AIbazi" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Goldmann1995/AIbazi/network/members">
+    <img src="https://img.shields.io/github/forks/Goldmann1995/AIbazi" alt="Forks"/>
+  </a>
+  <a href="https://github.com/Goldmann1995/AIbazi/issues">
+    <img src="https://img.shields.io/github/issues/Goldmann1995/AIbazi" alt="Issues"/>
+  </a>
+  <a href="https://github.com/Goldmann1995/AIbazi/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-96.8%25-blue" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/CSS-1.8%25-purple" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Other-1.4%25-gray" alt="Other"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Goldmann1995/AIbazi/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Goldmann1995/AIbazi" />
+  </a>
+</p>
