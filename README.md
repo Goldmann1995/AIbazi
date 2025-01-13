@@ -242,10 +242,6 @@ NEXT_PUBLIC_API_URL=your-api-url
 - 微信：nongxingbuziran
 
 
-## 📜 许可证
-
-Apache License 2.0
-
 ---
 
 
@@ -254,3 +250,8 @@ Apache License 2.0
 [![Star History Chart](https://api.star-history.com/svg?repos=Goldmann1995/AIbazi&type=Date)](https://star-history.com/#Goldmann1995/AIbazi&Date)
 
 如果您喜欢这个项目，请给我们一个 Star ⭐！
+
+## 📜 许可证
+
+本项目采用 GNU Affero General Public License v3.0 开源许可证。
+详情请参见 [LICENSE](LICENSE) 文件。

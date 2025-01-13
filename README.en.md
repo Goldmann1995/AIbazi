@@ -178,7 +178,8 @@ Dedicated to spreading traditional Eastern metaphysical culture globally through
 
 ## 📜 License
 
-Apache License 2.0
+This project is licensed under the GNU Affero General Public License v3.0.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
